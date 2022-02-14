@@ -1,2 +1,3 @@
 # odin-recipes
-recipes project aka odin project absolute sex
+This is my first actual project while following the odin project curriculum.
+It would consist of a few connected html pages about recipes.
