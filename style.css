@@ -1,0 +1,45 @@
+body {
+ background-color: ;
+ font-family: Helvetica, sans-serif;
+ background-image: url('background-iimg.jpg');
+}
+
+h1 {
+  font-size: 50px;
+    text-align: center;
+    background-color: rgba(50, 70, 100, 0.5);
+    font-weight: bold;
+    margin: 50px 80px;
+    padding: 30px;
+    border: 10px black transparent;
+    border-radius: 25%;
+}
+ul li {
+  color: aliceblue;
+}
+
+.chicken-wings, .waffles, .pasta {
+  text-align: center;
+  font-size: 30px;
+  padding: 30px;
+  margin: 10px 500px;
+ 
+}
+.chicken-wings {
+  background-color: rgba(210, 200, 100, 0.8);
+}
+
+.waffles {
+  background-color: rgba(1, 110, 1, 0.5);
+}
+      
+.pasta {
+  background-color: lightblue;
+}
+
+.chicken-wings:hover, .pasta:hover, .waffles:hover {
+  color: red;
+  background-color: white;
+}
+
+      
